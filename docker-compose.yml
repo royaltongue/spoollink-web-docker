@@ -1,0 +1,8 @@
+services:
+  spoollink:
+    container_name: spoolink
+    image: ghcr.io/royaltongue/spoollink-web-docker
+    hostname: spoollink
+    ports:
+      - 8443:8443
+    restart: unless-stopped
