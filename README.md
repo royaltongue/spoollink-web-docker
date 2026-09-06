@@ -2,7 +2,7 @@
 AI was used to take my original Dockerfile and apply best practices
 
 # Description
-The web-app version of SpoolLink running in a Docker dontainer
+The web-app version of SpoolLink running in a Docker container
 
 # Big thanks to:
 * [Paxx12](https://github.com/paxx12-snapmaker-u1)  - The original creator of SpoolLink and the Snapmaker U1 Extended Firmware
